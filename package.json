@@ -1,0 +1,19 @@
+{
+  "name": "nextjs-sample-scan",
+  "version": "1.0.0",
+  "description": "Sample Next.js app for Fortify SAST scanning",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "13.4.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "mysql2": "3.2.0",
+    "axios": "1.3.4",
+    "jsonwebtoken": "9.0.0",
+    "bcryptjs": "2.4.3"
+  }
+}
